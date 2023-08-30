@@ -1,0 +1,6 @@
+BIODIV contains three sub-indicators:
+1) Terrestrial
+2) Marine
+3) Freshwater
+
+All measure the percent of relevant areas covered.
